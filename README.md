@@ -17,7 +17,6 @@
   <img align="center" alt="gui-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="gui-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="gui-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="" height="60" width="40" src="https://coodesh.com/share/certificate/c2b6f4b0-2832-11ee-9234-c97844498031">
 
 
 </div>
