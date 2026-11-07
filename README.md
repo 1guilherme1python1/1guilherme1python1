@@ -1,25 +1,98 @@
-### Olá! Guilherme Lemos Vieira!
 
-
-🔭 Software Development at Ministério Público Do Estado do Acre
 <div align="center">
-  <a href="https://github.com/1guilherme1python1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1guilherme1python1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1guilherme1python1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gui-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="apache-kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  <img align="center" alt="gui-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="gui-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="gui-android-estudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="gui-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="gui-c-embedded" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
+
+# 👨‍💻 Guilherme Lemos Vieira
+
+### Software Developer | Backend & Systems Programming
+
+**Java • C • C++ • Rust • Databases • Docker**
+
+Software Developer at **Ministério Público do Estado do Acre 🇧🇷**
+
+<a href="https://www.linkedin.com/in/guilherme-lemos-vieira-934300124/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/1guilherme1python1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-<div>
-  <br/>
- <a href="https://www.linkedin.com/in/guilherme-lemos-vieira-934300124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <div/>
+
+---
+
+### 🚀 About Me
+
+I'm a Software Developer passionate about building reliable, scalable and high-performance applications.
+
+- 💼 Software Developer at **Ministério Público do Estado do Acre**
+- 🎓 Studying **Software Development & Electrical Engineering**
+- ☕ Working with **Java and Backend Development**
+- 🦀 Exploring **Rust, C, C++ and Systems Programming**
+- 🗄️ Experienced with **MySQL and SQL Server**
+- 🐳 Interested in **Docker, Software Architecture and Infrastructure**
+- 🌎 Based in **Brazil**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,rust&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+<br/><br/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="65%" src="https://ghstats.dev/api/card?username=1guilherme1python1&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=1guilherme1python1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🎯 Areas of Interest
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Backend-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Systems-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![C++](https://img.shields.io/badge/Low_Level-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Passionate about software engineering, backend architecture
+and low-level systems programming.
+
+**Building software. Learning continuously.**
+
+</div>
